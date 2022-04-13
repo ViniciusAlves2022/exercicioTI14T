@@ -1,0 +1,7 @@
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\bin\Debug\ExerciciosTI14TVIN.exe.config
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\bin\Debug\ExerciciosTI14TVIN.exe
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\bin\Debug\ExerciciosTI14TVIN.pdb
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\obj\Debug\ExerciciosTI14TVIN.csproj.AssemblyReference.cache
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\obj\Debug\ExerciciosTI14TVIN.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\obj\Debug\ExerciciosTI14TVIN.exe
+C:\Users\vinicius.asilva71\source\repos\ExerciciosTI14TVIN\ExerciciosTI14TVIN\obj\Debug\ExerciciosTI14TVIN.pdb
