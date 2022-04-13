@@ -80,4 +80,8 @@ namespace ExerciciosTI14TVIN
             return bas * altura;
         }
 
+        public int Exercicio04(int ano, int mes, int dias)
+        {
+            return ano * 
+        }
 
